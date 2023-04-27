@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">10116584Latihan3</string>
+
+    <string name="tagline">Monitory Membantu Anda Mengontrol HP Anak</string>
+
+
+    <!--Button-->
+    <string name="mulai">Mulai</string>
+
+    <!--Kode Keluarga-->
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="kode_keluarga_text">Ketikan kode keluarga yang ayah bunda miliki disini</string>
+    <string name="btn_kode_keluarga">Beli Kode Keluarga</string>
+    <string name="kode_keluarga_token">F1R567</string>
+    <string name="kode_keluarga_info">Dengan menekan tombol masuk berarti anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> Kami</string>
+    <string name="btn_kode_keluarga_detail">Belum Punya Kode Keluarga?</string>
+
+    <!--Profile Input-->
+    <string name="input_nama">Nama Panggilan Kamu</string>
+    <string name="input_nama_contoh">Contoh : Syahrun</string>
+
+    <string name="input_umur">Umur Kamu</string>
+    <string name="input_umur_contoh">Contoh : 12</string>
+
+    <!--Profile Input-->
+    <string name="notif">Beres! Sekarang Kamu udah bisa ngecek penggunaan HP mu tiap hari buat bantu kamu ngatur waktu :)</string>
+</resources>
